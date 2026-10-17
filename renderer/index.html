@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="pl">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self'" />
+    <title>MTGA Helper</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="panel">
+      <header>
+        <span class="title">Draft Helper</span>
+        <span id="pickinfo"></span>
+      </header>
+      <div id="status">Uruchamianie...</div>
+      <div id="packview">
+        <ul id="cards"></ul>
+      </div>
+      <div id="poolview" hidden>
+        <div id="pooltitle"></div>
+        <ul id="poollist" class="two-col"></ul>
+      </div>
+      <footer>
+        <div id="pool">Pula: 0 kart</div>
+        <div>Ctrl+Shift+O: ukryj · Ctrl+Shift+P: pak/pula · Ctrl+Shift+D: talie · Dane: 17Lands</div>
+      </footer>
+    </div>
+    <script src="renderer.js"></script>
+  </body>
+</html>

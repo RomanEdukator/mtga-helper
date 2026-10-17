@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="pl">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self'" />
+    <title>Talie z puli</title>
+    <link rel="stylesheet" href="decks.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Talie z puli</h1>
+      <span id="poolinfo"></span>
+    </header>
+    <div id="message" hidden></div>
+    <nav id="tabs" hidden></nav>
+    <main id="deck" hidden>
+      <section id="summary">
+        <div id="estimate"></div>
+        <div id="facts"></div>
+      </section>
+      <section id="curve-wrap">
+        <h2>Krzywa many</h2>
+        <div id="curve"></div>
+      </section>
+      <section>
+        <h2>Karty</h2>
+        <ul id="cards"></ul>
+      </section>
+      <section id="lands-wrap">
+        <h2>Ziemie</h2>
+        <div id="lands"></div>
+      </section>
+      <ul id="warnings"></ul>
+      <div id="actions">
+        <button id="copy" type="button">Kopiuj listę do Areny</button>
+        <span id="copyinfo"></span>
+      </div>
+    </main>
+    <footer>
+      Szacunek win rate to orientacyjna heurystyka z ocen kart (nie symulacja gier), zakłada typowego gracza 17Lands
+      na poziomie ok. 54% i nie uwzględnia synergii ani krzywej many. Ctrl+Shift+D: pokaż/ukryj to okno.
+    </footer>
+    <script src="decks.js"></script>
+  </body>
+</html>

@@ -1,0 +1,2289 @@
+{
+  "set": "FRA",
+  "format": "QuickDraft",
+  "generatedAt": "2026-10-17T10:56:20.272Z",
+  "source": "Dane: 17Lands (17lands.com); numery kart: 17Lands, MTG Arena, Scryfall",
+  "cards": {
+    "Blossom-Blessed Angel": {
+      "score": 1.81,
+      "gih": 0.53324969,
+      "alsa": 4.5776326
+    },
+    "Hexhaven Battalion": {
+      "score": 3.21,
+      "gih": 0.57290589,
+      "alsa": 3.4252704
+    },
+    "Memory Trap": {
+      "score": 2.54,
+      "gih": 0.55392157,
+      "alsa": 2.6136045
+    },
+    "Shatterwing Pegasus": {
+      "score": 1,
+      "gih": 0.5008,
+      "alsa": 7.3734477
+    },
+    "Surgical Precision": {
+      "score": 3.61,
+      "gih": 0.58418605,
+      "alsa": 3.781604
+    },
+    "Unflinching Hortimancer": {
+      "score": 2.5,
+      "gih": 0.55270655,
+      "alsa": 5.1091672
+    },
+    "Countersculpt": {
+      "score": 2.86,
+      "gih": 0.56287425,
+      "alsa": 3.1877214
+    },
+    "Cryotheory Adept": {
+      "score": 1.27,
+      "gih": 0.51805338,
+      "alsa": 7.681583
+    },
+    "Divining Duelist": {
+      "score": 2.73,
+      "gih": 0.55915493,
+      "alsa": 7.7916918
+    },
+    "Icy Reception": {
+      "score": 3.32,
+      "gih": 0.57602491,
+      "alsa": 5.1124031
+    },
+    "Infinite Coursework": {
+      "score": 3.62,
+      "gih": 0.58442143,
+      "alsa": 4.7423002
+    },
+    "Mindseeker Oculus": {
+      "score": 4.84,
+      "gih": 0.61892178,
+      "alsa": 2.6608812
+    },
+    "Plan for All Outcomes": {
+      "score": 3.74,
+      "gih": 0.58767123,
+      "alsa": 2.5218045
+    },
+    "Protege's Awakening": {
+      "score": 3.51,
+      "gih": 0.58134295,
+      "alsa": 5.5944008
+    },
+    "Semester Foreseer": {
+      "score": 2.79,
+      "gih": 0.56097561,
+      "alsa": 6.3227666
+    },
+    "Sphinx's Approach": {
+      "score": 3.28,
+      "gih": 0.57484277,
+      "alsa": 8.4483169
+    },
+    "Surveillance Phantasm": {
+      "score": 3.4,
+      "gih": 0.57815846,
+      "alsa": 3.886087
+    },
+    "Undulating Witness": {
+      "score": 3.13,
+      "gih": 0.57039885,
+      "alsa": 5.6246133
+    },
+    "Unsummon": {
+      "score": 3.41,
+      "gih": 0.57837558,
+      "alsa": 5.6994441
+    },
+    "Apex Witchstalker": {
+      "score": 3.35,
+      "gih": 0.5767098,
+      "alsa": 5.7695804
+    },
+    "Break Under Pressure": {
+      "score": 4.41,
+      "gih": 0.60678925,
+      "alsa": 2.4675926
+    },
+    "Extended Absence": {
+      "score": 4.37,
+      "gih": 0.60558804,
+      "alsa": 2.7265176
+    },
+    "Last Gasp": {
+      "score": 4.15,
+      "gih": 0.59945995,
+      "alsa": 2.9695704
+    },
+    "Multiply by Zero": {
+      "score": 4.49,
+      "gih": 0.60888252,
+      "alsa": 2.177102
+    },
+    "Rank Rat": {
+      "score": 1.62,
+      "gih": 0.52793615,
+      "alsa": 5.7486413
+    },
+    "Rewrite Regrets": {
+      "score": 4.6,
+      "gih": 0.6119578,
+      "alsa": 3.3675393
+    },
+    "Screeching Soulbreaker": {
+      "score": 3.23,
+      "gih": 0.57327586,
+      "alsa": 7.2779343
+    },
+    "Silence the Echo": {
+      "score": 1,
+      "gih": 0.49938042,
+      "alsa": 4.8059978
+    },
+    "Theoretical Necromancer": {
+      "score": 2.77,
+      "gih": 0.56046267,
+      "alsa": 6.7061791
+    },
+    "Void Extrapolator": {
+      "score": 3.09,
+      "gih": 0.56936937,
+      "alsa": 6.8050175
+    },
+    "Awaken the Inferno": {
+      "score": 3.27,
+      "gih": 0.57442348,
+      "alsa": 3.8281665
+    },
+    "Chandra's Emberling": {
+      "score": 3.31,
+      "gih": 0.57569721,
+      "alsa": 7.0325077
+    },
+    "Heartstring Puller": {
+      "score": 2.19,
+      "gih": 0.54396423,
+      "alsa": 5.6441086
+    },
+    "No Admittance": {
+      "score": 3,
+      "gih": 0.56692913,
+      "alsa": 2.7222605
+    },
+    "Skilled Battlecarver": {
+      "score": 1.94,
+      "gih": 0.53698225,
+      "alsa": 6.7164849
+    },
+    "Violent Echoes": {
+      "score": 3.78,
+      "gih": 0.58888889,
+      "alsa": 2.4442724
+    },
+    "Wrath of the Bloodmane": {
+      "score": 2.81,
+      "gih": 0.56147987,
+      "alsa": 3.1317829
+    },
+    "Arcane Amphisbaena": {
+      "score": 2.23,
+      "gih": 0.54524089,
+      "alsa": 3.7635445
+    },
+    "Bestial Incursion": {
+      "score": 1.76,
+      "gih": 0.53176471,
+      "alsa": 4.2531749
+    },
+    "Compel Brutality": {
+      "score": 1.79,
+      "gih": 0.53266332,
+      "alsa": 3.8146226
+    },
+    "Greenhouse Propagator": {
+      "score": 1.47,
+      "gih": 0.52367288,
+      "alsa": 3.784176
+    },
+    "Sureshot Sower": {
+      "score": 1.69,
+      "gih": 0.52986023,
+      "alsa": 6.6137352
+    },
+    "Vinelasher Adept": {
+      "score": 1.75,
+      "gih": 0.53153153,
+      "alsa": 5.7047776
+    },
+    "Wrecking Gecko": {
+      "score": 2.16,
+      "gih": 0.54326923,
+      "alsa": 7.432529
+    },
+    "Blessed Ghoul": {
+      "score": 1.63,
+      "gih": 0.52804378,
+      "alsa": 6.3122311
+    },
+    "Clash of Elements": {
+      "score": 5,
+      "gih": 0.62721088,
+      "alsa": 5.4248957
+    },
+    "Craftwork Crusher": {
+      "score": 3.47,
+      "gih": 0.58027079,
+      "alsa": 2.4730878
+    },
+    "Desperate Futurescribe": {
+      "score": 3.38,
+      "gih": 0.57754011,
+      "alsa": 3.4946131
+    },
+    "Emergency Phytomedic": {
+      "score": 2.64,
+      "gih": 0.55662188,
+      "alsa": 5.135274
+    },
+    "Fatehold Chronologist": {
+      "score": 3.07,
+      "gih": 0.56886228,
+      "alsa": 3.5710332
+    },
+    "Ferocity of the Hunt": {
+      "score": 2.29,
+      "gih": 0.54676259,
+      "alsa": 8.2570655
+    },
+    "Konstrari Improviser": {
+      "score": 1.52,
+      "gih": 0.52503577,
+      "alsa": 3.5898795
+    },
+    "Mind Meanderer": {
+      "score": 3.75,
+      "gih": 0.58816568,
+      "alsa": 5.4402685
+    },
+    "Paradox Shaper": {
+      "score": 1.89,
+      "gih": 0.53544776,
+      "alsa": 5.7610738
+    },
+    "Recursive Recruitment": {
+      "score": 4.19,
+      "gih": 0.60038797,
+      "alsa": 3.0964912
+    },
+    "Tam's Resistance": {
+      "score": 3.19,
+      "gih": 0.5721393,
+      "alsa": 6.2590174
+    },
+    "Theorix Charm": {
+      "score": 2.85,
+      "gih": 0.56267806,
+      "alsa": 5.4229965
+    },
+    "Theorix Metamage": {
+      "score": 2.56,
+      "gih": 0.55442671,
+      "alsa": 6.3099665
+    },
+    "Twinned Vision": {
+      "score": 3.69,
+      "gih": 0.5864005,
+      "alsa": 4.6514346
+    },
+    "Keeper of the Quiet Hour": {
+      "score": 3.66,
+      "gih": 0.58544304,
+      "alsa": 6.9883963
+    },
+    "Murmuring Volume": {
+      "score": 3.32,
+      "gih": 0.57588076,
+      "alsa": 7.0694404
+    },
+    "Room of Refuge": {
+      "score": 2.18,
+      "gih": 0.54356436,
+      "alsa": 4.0731123
+    },
+    "Way of the Healer": {
+      "score": 2.75,
+      "gih": 0.55980861,
+      "alsa": 3.01125
+    },
+    "Fblthp, Impossibly Lost": {
+      "score": 4.83,
+      "gih": 0.61863887,
+      "alsa": 4.1563025
+    },
+    "Geist of Saint Thalia": {
+      "score": 2.82,
+      "gih": 0.56180812,
+      "alsa": 4.5660989
+    },
+    "Proft, Consulting Detective": {
+      "score": 3.78,
+      "gih": 0.5888,
+      "alsa": 2.9013733
+    },
+    "Ruric Thar, Biomagus": {
+      "score": 3.9,
+      "gih": 0.5922619,
+      "alsa": 4.5199349
+    },
+    "Traxos, Academy Guardian": {
+      "score": 3.7,
+      "gih": 0.58661417,
+      "alsa": 4.5988746
+    },
+    "Way of the Mind Sculptor": {
+      "score": 3.07,
+      "gih": 0.56887487,
+      "alsa": 2.8927711
+    },
+    "Kiora of Fire and Ashes": {
+      "score": 4.88,
+      "gih": 0.61989796,
+      "alsa": 2.0620567
+    },
+    "Hapatra, the Desert Fang": {
+      "score": 1.9,
+      "gih": 0.5359116,
+      "alsa": 3.3827699
+    },
+    "Saheeli, Jewel of Avishkar": {
+      "score": 3.88,
+      "gih": 0.59163059,
+      "alsa": 4.0298635
+    }
+  },
+  "arena": {
+    "69863": "Unsummon",
+    "72309": "Last Gasp",
+    "75477": "Unsummon",
+    "94027": "Unsummon",
+    "102545": "Last Gasp",
+    "106225": "Emrakul, the Exigent Doom",
+    "106226": "Academic Ascent",
+    "106227": "Blossom-Blessed Angel",
+    "106228": "Seed Suture",
+    "106229": "Campus Crier",
+    "106230": "Enlightened Confidant",
+    "106231": "Fateshaper Aspirant",
+    "106232": "Flickering Hound",
+    "106233": "Generous Revival",
+    "106234": "Germinate Recruits",
+    "106235": "Graft Surgeon",
+    "106236": "Guiding Hydra",
+    "106237": "Hexhaven Battalion",
+    "106238": "Kindred Judgment",
+    "106239": "Loyal Tutor",
+    "106240": "Memory Trap",
+    "106241": "Predictive Preparations",
+    "106242": "Prophesied End",
+    "106243": "Refute Destiny",
+    "106244": "Repurposed Enforcer",
+    "106245": "Return to the Light Realms",
+    "106246": "Shatterwing Pegasus",
+    "106247": "Surgical Precision",
+    "106248": "Unflinching Hortimancer",
+    "106249": "Your Fate Ends Here",
+    "106250": "Countersculpt",
+    "106251": "Cruel Calculations",
+    "106252": "Cryotheory Adept",
+    "106253": "Diviner of Victory",
+    "106254": "Unwind History",
+    "106255": "Divining Duelist",
+    "106256": "Icy Reception",
+    "106257": "Infinite Coursework",
+    "106258": "Jace's Machinations",
+    "106259": "Mindseeker Oculus",
+    "106260": "Perfected Theory",
+    "106261": "Plan for All Outcomes",
+    "106262": "Precise Redaction",
+    "106263": "Protege's Awakening",
+    "106264": "Seasoned Cryomancer",
+    "106265": "Semester Foreseer",
+    "106266": "Peer Review",
+    "106267": "Sphinx of False Conclusions",
+    "106268": "Sphinx's Approach",
+    "106269": "Surveillance Phantasm",
+    "106270": "The Theorist, Jace Beleren",
+    "106271": "Theorist's Proxy",
+    "106272": "Undulating Witness",
+    "106273": "Unsummon",
+    "106274": "Variable Chaser",
+    "106275": "Arc of Fortune",
+    "106276": "Apex Witchstalker",
+    "106277": "Bloodline Recollector",
+    "106278": "Ancestral Craving",
+    "106279": "Break Under Pressure",
+    "106280": "Cast Away Doubt",
+    "106281": "Dark Matter Manipulator",
+    "106282": "Darklight Phoenix",
+    "106283": "Extended Absence",
+    "106284": "Extrapolate the Impossible",
+    "106285": "Last Gasp",
+    "106286": "Lich's Relic",
+    "106287": "Multiply by Zero",
+    "106288": "Overwrite the Multiverse",
+    "106289": "Rampart Hunter",
+    "106290": "Rank Rat",
+    "106291": "Rewrite Regrets",
+    "106292": "Rise of the Deathbringer",
+    "106293": "Sanctum Lurker",
+    "106294": "Screeching Soulbreaker",
+    "106295": "Silence the Echo",
+    "106296": "Solve for Disappointment",
+    "106297": "Terminal Criticism",
+    "106298": "Theoretical Necromancer",
+    "106299": "Void Extrapolator",
+    "106300": "Omit Variables",
+    "106301": "Vraska's Final Mercy",
+    "106302": "Ajani's Anguish",
+    "106303": "Artifist Acumen",
+    "106304": "Awaken the Inferno",
+    "106305": "Blazing Crescendo",
+    "106306": "Chandra's Emberling",
+    "106307": "Command the Stage",
+    "106308": "Craterclaw Colossus",
+    "106309": "Curse-Marred Demon",
+    "106310": "Draconic Visitor",
+    "106311": "Eardrum Rattler",
+    "106312": "Essence Burn",
+    "106313": "Face Yourself",
+    "106314": "Fulminous Forte",
+    "106315": "Hallway Heckler",
+    "106316": "Vicious Verse",
+    "106317": "Heartstring Puller",
+    "106318": "Identity Echo",
+    "106319": "Master of Barbs",
+    "106320": "No Admittance",
+    "106321": "Pompous Battlemage",
+    "106322": "Improvised Act",
+    "106323": "Pyre Rhymer",
+    "106324": "Molten Tide",
+    "106325": "Skilled Battlecarver",
+    "106326": "Stingcaster Mage",
+    "106327": "Tether Technician",
+    "106328": "Violent Echoes",
+    "106329": "Wrath of the Bloodmane",
+    "106330": "Arcane Amphisbaena",
+    "106331": "Bestial Incursion",
+    "106332": "Budding Insurgent",
+    "106333": "Carnivorous Cultivator",
+    "106334": "Enroot",
+    "106335": "Compel Brutality",
+    "106336": "Flourishing Grapple",
+    "106337": "Gardenize",
+    "106338": "Greenhouse Propagator",
+    "106339": "Heartwood Crafter",
+    "106340": "Soul Tether",
+    "106341": "Hexhaven Invigorator",
+    "106342": "Hungering Puppetbeast",
+    "106343": "Hunter's Axe",
+    "106344": "Inspired Tethermage",
+    "106345": "Omnipresence",
+    "106346": "Puppet Crafting",
+    "106347": "Restore with Empathy",
+    "106348": "Simulacrum Shaper",
+    "106349": "Something Worth Saving",
+    "106350": "Sureshot Sower",
+    "106351": "Tarmogoyf",
+    "106352": "Tethermage's Advantage",
+    "106353": "Verdant Kraken",
+    "106354": "Vinelasher Adept",
+    "106355": "Wrecking Gecko",
+    "106356": "Aerid Konstrari",
+    "106357": "Avatar of Burgeoning Echoes",
+    "106358": "Blessed Ghoul",
+    "106359": "Bloombrute",
+    "106360": "Charge the Sanctum",
+    "106361": "Clash of Elements",
+    "106362": "Craftwork Crusher",
+    "106363": "Denzilore Fatehold",
+    "106364": "Desperate Futurescribe",
+    "106365": "Emergency Phytomedic",
+    "106366": "Seed Suture",
+    "106367": "Entrust the Spark",
+    "106368": "Fatehold Charm",
+    "106369": "Fatehold Chronologist",
+    "106370": "Peer Review",
+    "106371": "Ferocity of the Hunt",
+    "106372": "Frostbite Pyromental",
+    "106373": "Grim Repriser",
+    "106374": "Ingris Stingerquill",
+    "106375": "Konstrari Charm",
+    "106376": "Konstrari Improviser",
+    "106377": "Soul Tether",
+    "106378": "Kwia Vigorbloom",
+    "106379": "Mind Meanderer",
+    "106380": "Null Summoner",
+    "106381": "Paradox Shaper",
+    "106382": "Omit Variables",
+    "106383": "Primal Witchstalker",
+    "106384": "Proctor of Potential",
+    "106385": "Prudent Fateseer",
+    "106386": "Peer Review",
+    "106387": "Recursive Recruitment",
+    "106388": "Solarium Sentry",
+    "106389": "Solitary Cell",
+    "106390": "Stingerquill Charm",
+    "106391": "Stingerquill Voxmancer",
+    "106392": "Vicious Verse",
+    "106393": "Stinging Vitriol",
+    "106394": "Tam's Resistance",
+    "106395": "Tenured Tethermage",
+    "106396": "Theorix Charm",
+    "106397": "Theorix Metamage",
+    "106398": "Omit Variables",
+    "106399": "Twinned Vision",
+    "106400": "Twisted Fates",
+    "106401": "Uldaros Theorix",
+    "106402": "Vigorbloom Charm",
+    "106403": "Vigorbloom Vanguard",
+    "106404": "Seed Suture",
+    "106405": "Vindictive Triumph",
+    "106406": "Warrior's Blades",
+    "106407": "Whiplash Wordsmith",
+    "106408": "Vicious Verse",
+    "106409": "Woodwork Prodigy",
+    "106410": "Soul Tether",
+    "106411": "Afterthought Sentry",
+    "106412": "Archive Arbiter",
+    "106413": "Codie, Ravenous Codex",
+    "106414": "The Echoverse Fulcrum",
+    "106415": "Eye of Jace",
+    "106416": "Keeper of the Quiet Hour",
+    "106417": "Living Library",
+    "106418": "Medic's Kitesail",
+    "106419": "Murmuring Volume",
+    "106420": "Dedicated Commons",
+    "106421": "Deserted Beach",
+    "106422": "Fatehold Annex",
+    "106423": "Formidable Commons",
+    "106424": "Hall of Echoes",
+    "106425": "Haunted Ridge",
+    "106426": "Hexhaven Dueling Arena",
+    "106427": "Innovative Commons",
+    "106428": "Konstrari Annex",
+    "106429": "Meticulous Commons",
+    "106430": "Overgrown Farmland",
+    "106431": "Rockfall Vale",
+    "106432": "Roiling Canopy",
+    "106433": "Room of Refuge",
+    "106434": "Shipwreck Marsh",
+    "106435": "Stingerquill Annex",
+    "106436": "Theorist's Sanctum",
+    "106437": "Theorix Annex",
+    "106438": "Transformative Commons",
+    "106439": "Vigorbloom Annex",
+    "106440": "Ajani Resolute",
+    "106441": "Danitha, Sword of Hope",
+    "106442": "Ghalta the Immovable",
+    "106443": "Gideon's Memorial",
+    "106444": "Koth of the Homestead",
+    "106445": "Liliana the Faultless",
+    "106446": "Lyra, Archangel of Dawn",
+    "106447": "Rescue Girl, First Responder",
+    "106448": "Saheeli, Consul of Oversight",
+    "106449": "Teyo, Lightshield Expert",
+    "106450": "Thalia, the Survivor",
+    "106451": "Tomik, Orzhov Lawmage",
+    "106452": "Way of the Healer",
+    "106453": "Way of the Mentor",
+    "106454": "Yoshimaru, Beloved Companion",
+    "106455": "Yuriko, Blade of the Mighty",
+    "106456": "Arni, Humble Scribe",
+    "106457": "Chandra, Chill of Compliance",
+    "106458": "Fblthp, Impossibly Lost",
+    "106459": "Geist of Saint Thalia",
+    "106460": "Hapatra, the Desert Frost",
+    "106461": "Jace, Reality Sculptor",
+    "106462": "Lyra, Tolarian Archangel",
+    "106463": "Proft, Consulting Detective",
+    "106464": "Ruric Thar, Biomagus",
+    "106465": "Samut, Tyrant of Naktamun",
+    "106466": "Tetsuko Umezawa, Fugitive",
+    "106467": "Traxos, Academy Guardian",
+    "106468": "Way of the Cryomancer",
+    "106469": "Way of the Mind Sculptor",
+    "106470": "Yargle, Goliath of Otaria",
+    "106471": "Yuriko, Hope from the Shadows",
+    "106472": "Danitha, Spear of Agony",
+    "106473": "Gallia, Tragic Host",
+    "106474": "Garruk, Veiled Butcher",
+    "106475": "Gideon the Oathless",
+    "106476": "Liliana the Repentant",
+    "106477": "Loot, the Anomaly",
+    "106478": "Mabel, Bitter Recluse",
+    "106479": "Massacre Girl, Most Wanted",
+    "106480": "Proft, Sinister Mastermind",
+    "106481": "Teyo, Diamondblade Mage",
+    "106482": "Tinybones, Pocket Nuisance",
+    "106483": "Way of the Deathbringer",
+    "106484": "Way of the Necromancer",
+    "106485": "Winter, Tormented Loner",
+    "106486": "Yargle, Glutton of Urborg",
+    "106487": "Ajani Unrelenting",
+    "106488": "Arni, Renowned Champion",
+    "106489": "Chandra, Torch of Defiance",
+    "106490": "Gallia, the Merrymaker",
+    "106491": "Jiang Yanggu, Alone",
+    "106492": "Kiora of Fire and Ashes",
+    "106493": "Koth, the Geomancer",
+    "106494": "Marwyn, the Clearcutter",
+    "106495": "Pia, Determined Rebuilder",
+    "106496": "Samut, Hazoret's Champion",
+    "106497": "Tetsuko Umezawa, Pursuer",
+    "106498": "Tomik, Izzet Sparkmage",
+    "106499": "Way of the Pyromancer",
+    "106500": "Way of the Warlord",
+    "106501": "Winter, Team Player",
+    "106502": "Edgar, Moonlit Sovereign",
+    "106503": "Fblthp, Knows the Way",
+    "106504": "Garruk, Curse Breaker",
+    "106505": "Ghalta the Unstoppable",
+    "106506": "Jiang Yanggu, Never Alone",
+    "106507": "Loot, the Nexus",
+    "106508": "Marwyn, the Preserver",
+    "106509": "Pia, Aether Ascetic",
+    "106510": "Ruric Thar, Magecrusher",
+    "106511": "Titanbones, Towering Heart",
+    "106512": "Way of the Paradox",
+    "106513": "Way of the Wildspeaker",
+    "106514": "Yoshimaru, Scrappy Stray",
+    "106515": "Edgar, Ancient Bloodlord",
+    "106516": "Hapatra, the Desert Fang",
+    "106517": "Karn, Gilded Guardian",
+    "106518": "Kiora of Salt and Sand",
+    "106519": "Mabel, Valley Hero",
+    "106520": "Saheeli, Jewel of Avishkar",
+    "106521": "Tam, the Possibility",
+    "106522": "Vraska, Soul of Stone",
+    "106523": "Vraska, the Cutting Glare",
+    "106524": "Karn, Argent Defender",
+    "106525": "Traxos, Scourge Eternal",
+    "106526": "Plains",
+    "106527": "Plains",
+    "106528": "Island",
+    "106529": "Island",
+    "106530": "Swamp",
+    "106531": "Swamp",
+    "106532": "Mountain",
+    "106533": "Mountain",
+    "106534": "Forest",
+    "106535": "Forest",
+    "106536": "Plains",
+    "106537": "Plains",
+    "106538": "Plains",
+    "106539": "Island",
+    "106540": "Island",
+    "106541": "Island",
+    "106542": "Swamp",
+    "106543": "Swamp",
+    "106544": "Swamp",
+    "106545": "Mountain",
+    "106546": "Mountain",
+    "106547": "Mountain",
+    "106548": "Forest",
+    "106549": "Forest",
+    "106550": "Forest",
+    "107830": "Ajani Resolute",
+    "107831": "Gideon's Memorial",
+    "107832": "Liliana the Faultless",
+    "107833": "Lyra, Archangel of Dawn",
+    "107834": "Teyo, Lightshield Expert",
+    "107835": "Thalia, the Survivor",
+    "107836": "Chandra, Chill of Compliance",
+    "107837": "Fblthp, Impossibly Lost",
+    "107838": "Geist of Saint Thalia",
+    "107839": "Jace, Reality Sculptor",
+    "107840": "Lyra, Tolarian Archangel",
+    "107841": "Samut, Tyrant of Naktamun",
+    "107842": "Garruk, Veiled Butcher",
+    "107843": "Gideon the Oathless",
+    "107844": "Liliana the Repentant",
+    "107845": "Teyo, Diamondblade Mage",
+    "107846": "Winter, Tormented Loner",
+    "107847": "Ajani Unrelenting",
+    "107848": "Chandra, Torch of Defiance",
+    "107849": "Marwyn, the Clearcutter",
+    "107850": "Samut, Hazoret's Champion",
+    "107851": "Winter, Team Player",
+    "107852": "Fblthp, Knows the Way",
+    "107853": "Garruk, Curse Breaker",
+    "107854": "Marwyn, the Preserver",
+    "107855": "Karn, Gilded Guardian",
+    "107856": "Tam, the Possibility",
+    "107857": "Vraska, Soul of Stone",
+    "107858": "Vraska, the Cutting Glare",
+    "107859": "Karn, Argent Defender",
+    "107860": "Enlightened Confidant",
+    "107861": "Kindred Judgment",
+    "107862": "Return to the Light Realms",
+    "107863": "Seasoned Cryomancer",
+    "107864": "Darklight Phoenix",
+    "107865": "Rise of the Deathbringer",
+    "107866": "Craterclaw Colossus",
+    "107867": "Curse-Marred Demon",
+    "107868": "Stingcaster Mage",
+    "107869": "Hexhaven Invigorator",
+    "107870": "Omnipresence",
+    "107871": "Simulacrum Shaper",
+    "107872": "Frostbite Pyromental",
+    "107873": "Germinate Recruits",
+    "107874": "Repurposed Enforcer",
+    "107875": "Cruel Calculations",
+    "107876": "Jace's Machinations",
+    "107877": "Sphinx of False Conclusions",
+    "107878": "Theorist's Proxy",
+    "107879": "Dark Matter Manipulator",
+    "107880": "Overwrite the Multiverse",
+    "107881": "Sanctum Lurker",
+    "107882": "Vraska's Final Mercy",
+    "107883": "Master of Barbs",
+    "107884": "Gardenize",
+    "107885": "Hungering Puppetbeast",
+    "107886": "Aerid Konstrari",
+    "107887": "Avatar of Burgeoning Echoes",
+    "107888": "Denzilore Fatehold",
+    "107889": "Entrust the Spark",
+    "107890": "Ingris Stingerquill",
+    "107891": "Kwia Vigorbloom",
+    "107892": "Null Summoner",
+    "107893": "Proctor of Potential",
+    "107894": "Solitary Cell",
+    "107895": "Stinging Vitriol",
+    "107896": "Tenured Tethermage",
+    "107897": "Uldaros Theorix",
+    "107898": "Flickering Hound",
+    "107899": "Guiding Hydra",
+    "107900": "Refute Destiny",
+    "107901": "Precise Redaction",
+    "107902": "The Theorist, Jace Beleren",
+    "107903": "Extrapolate the Impossible",
+    "107904": "Lich's Relic",
+    "107905": "Terminal Criticism",
+    "107906": "Ajani's Anguish",
+    "107907": "Draconic Visitor",
+    "107908": "Essence Burn",
+    "107909": "Face Yourself",
+    "107910": "Identity Echo",
+    "107911": "Flourishing Grapple",
+    "107912": "Puppet Crafting",
+    "107913": "Tarmogoyf",
+    "107914": "Verdant Kraken",
+    "107915": "Solarium Sentry",
+    "107916": "Vindictive Triumph",
+    "107917": "The Echoverse Fulcrum",
+    "107918": "Hall of Echoes",
+    "107919": "Roiling Canopy",
+    "107920": "Theorist's Sanctum",
+    "107921": "Deserted Beach",
+    "107922": "Haunted Ridge",
+    "107923": "Overgrown Farmland",
+    "107924": "Rockfall Vale",
+    "107925": "Shipwreck Marsh",
+    "107926": "Emrakul, the Exigent Doom",
+    "107927": "Loyal Tutor",
+    "107928": "The Theorist, Jace Beleren",
+    "107929": "Gardenize",
+    "107930": "Aerid Konstrari",
+    "107931": "Denzilore Fatehold",
+    "107932": "Ingris Stingerquill",
+    "107933": "Kwia Vigorbloom",
+    "107934": "Uldaros Theorix",
+    "107935": "Codie, Ravenous Codex"
+  },
+  "meta": {
+    "Unsummon": {
+      "colors": "U",
+      "cmc": 1,
+      "types": "Instant"
+    },
+    "Last Gasp": {
+      "colors": "B",
+      "cmc": 2,
+      "types": "Instant"
+    },
+    "Precise Redaction": {
+      "colors": "U",
+      "cmc": 2,
+      "types": "Instant"
+    },
+    "Plan for All Outcomes": {
+      "colors": "U",
+      "cmc": 4,
+      "types": "Enchantment"
+    },
+    "Denzilore Fatehold": {
+      "colors": "UW",
+      "cmc": 4,
+      "types": "Legendary Creature - Elder Sphinx"
+    },
+    "Koth, the Geomancer": {
+      "colors": "R",
+      "cmc": 3,
+      "types": "Legendary Creature - Human Warrior"
+    },
+    "Apex Witchstalker": {
+      "colors": "B",
+      "cmc": 6,
+      "types": "Creature - Wolf"
+    },
+    "Something Worth Saving": {
+      "colors": "G",
+      "cmc": 2,
+      "types": "Instant"
+    },
+    "Koth of the Homestead": {
+      "colors": "W",
+      "cmc": 3,
+      "types": "Legendary Creature - Human Citizen"
+    },
+    "Lyra, Archangel of Dawn": {
+      "colors": "W",
+      "cmc": 3,
+      "types": "Legendary Creature - Angel Knight"
+    },
+    "Eardrum Rattler": {
+      "colors": "R",
+      "cmc": 2,
+      "types": "Creature - Human Bard"
+    },
+    "Stingerquill Charm": {
+      "colors": "BR",
+      "cmc": 2,
+      "types": "Instant"
+    },
+    "Diviner of Victory": {
+      "colors": "U",
+      "cmc": 1,
+      "types": "Creature - Dwarf Wizard"
+    },
+    "Mind Meanderer": {
+      "colors": "GU",
+      "cmc": 6,
+      "types": "Creature - Bird Fish Illusion"
+    },
+    "Fblthp, Knows the Way": {
+      "colors": "G",
+      "cmc": 2,
+      "types": "Legendary Creature - Homunculus Scout"
+    },
+    "The Theorist, Jace Beleren": {
+      "colors": "U",
+      "cmc": 4,
+      "types": "Legendary Planeswalker - Jace"
+    },
+    "Vigorbloom Vanguard": {
+      "colors": "GW",
+      "cmc": 2,
+      "types": "Creature - Troll Druid"
+    },
+    "Ajani Unrelenting": {
+      "colors": "R",
+      "cmc": 6,
+      "types": "Legendary Planeswalker - Ajani"
+    },
+    "Danitha, Sword of Hope": {
+      "colors": "W",
+      "cmc": 3,
+      "types": "Legendary Creature - Human Knight"
+    },
+    "Mabel, Bitter Recluse": {
+      "colors": "B",
+      "cmc": 1,
+      "types": "Legendary Creature - Mouse Warlock"
+    },
+    "Master of Barbs": {
+      "colors": "R",
+      "cmc": 2,
+      "types": "Creature - Lizard Bard"
+    },
+    "Repurposed Enforcer": {
+      "colors": "W",
+      "cmc": 2,
+      "types": "Creature - Human Soldier"
+    },
+    "Charge the Sanctum": {
+      "colors": "RW",
+      "cmc": 3,
+      "types": "Instant"
+    },
+    "Lich's Relic": {
+      "colors": "B",
+      "cmc": 1,
+      "types": "Artifact - Equipment"
+    },
+    "Teyo, Lightshield Expert": {
+      "colors": "W",
+      "cmc": 2,
+      "types": "Legendary Creature - Human Cleric"
+    },
+    "Arni, Renowned Champion": {
+      "colors": "R",
+      "cmc": 4,
+      "types": "Legendary Creature - Human Berserker"
+    },
+    "Fblthp, Impossibly Lost": {
+      "colors": "U",
+      "cmc": 2,
+      "types": "Legendary Creature - Homunculus"
+    },
+    "Forest": {
+      "colors": "G",
+      "cmc": 0,
+      "types": "Basic Land - Forest"
+    },
+    "Command the Stage": {
+      "colors": "R",
+      "cmc": 3,
+      "types": "Sorcery"
+    },
+    "Cruel Calculations": {
+      "colors": "U",
+      "cmc": 3,
+      "types": "Sorcery"
+    },
+    "Tether Technician": {
+      "colors": "R",
+      "cmc": 5,
+      "types": "Creature - Minotaur Artificer"
+    },
+    "Solve for Disappointment": {
+      "colors": "B",
+      "cmc": 2,
+      "types": "Sorcery"
+    },
+    "Violent Echoes": {
+      "colors": "R",
+      "cmc": 4,
+      "types": "Instant"
+    },
+    "Way of the Warlord": {
+      "colors": "R",
+      "cmc": 3,
+      "types": "Legendary Enchantment"
+    },
+    "Divining Duelist": {
+      "colors": "U",
+      "cmc": 3,
+      "types": "Creature - Merfolk Wizard"
+    },
+    "Hungering Puppetbeast": {
+      "colors": "G",
+      "cmc": 5,
+      "types": "Artifact Creature - Beast Construct"
+    },
+    "Dark Matter Manipulator": {
+      "colors": "B",
+      "cmc": 1,
+      "types": "Creature - Human Warlock"
+    },
+    "Sphinx of False Conclusions": {
+      "colors": "U",
+      "cmc": 4,
+      "types": "Creature - Sphinx Illusion"
+    },
+    "Predictive Preparations": {
+      "colors": "W",
+      "cmc": 2,
+      "types": "Sorcery"
+    },
+    "Loot, the Anomaly": {
+      "colors": "B",
+      "cmc": 3,
+      "types": "Legendary Creature - Beast Horror"
+    },
+    "Keeper of the Quiet Hour": {
+      "colors": "",
+      "cmc": 3,
+      "types": "Artifact Creature - Chimera"
+    },
+    "Marwyn, the Preserver": {
+      "colors": "G",
+      "cmc": 2,
+      "types": "Legendary Creature - Elf Druid"
+    },
+    "Rise of the Deathbringer": {
+      "colors": "B",
+      "cmc": 5,
+      "types": "Instant"
+    },
+    "Break Under Pressure": {
+      "colors": "B",
+      "cmc": 3,
+      "types": "Instant"
+    },
+    "Memory Trap": {
+      "colors": "W",
+      "cmc": 3,
+      "types": "Enchantment"
+    },
+    "Shatterwing Pegasus": {
+      "colors": "W",
+      "cmc": 3,
+      "types": "Creature - Pegasus"
+    },
+    "Vigorbloom Annex": {
+      "colors": "GW",
+      "cmc": 0,
+      "types": "Land"
+    },
+    "Meticulous Commons": {
+      "colors": "BW",
+      "cmc": 0,
+      "types": "Land"
+    },
+    "Bloombrute": {
+      "colors": "GW",
+      "cmc": 4,
+      "types": "Creature - Plant Elemental"
+    },
+    "Edgar, Ancient Bloodlord": {
+      "colors": "BW",
+      "cmc": 2,
+      "types": "Legendary Creature - Vampire Noble"
+    },
+    "Vraska, Soul of Stone": {
+      "colors": "RUW",
+      "cmc": 3,
+      "types": "Legendary Creature - Gorgon Wizard"
+    },
+    "Solitary Cell": {
+      "colors": "RW",
+      "cmc": 2,
+      "types": "Artifact"
+    },
+    "Prophesied End": {
+      "colors": "W",
+      "cmc": 2,
+      "types": "Instant"
+    },
+    "Identity Echo": {
+      "colors": "R",
+      "cmc": 3,
+      "types": "Enchantment"
+    },
+    "Recursive Recruitment": {
+      "colors": "BU",
+      "cmc": 4,
+      "types": "Sorcery"
+    },
+    "Cryotheory Adept": {
+      "colors": "U",
+      "cmc": 2,
+      "types": "Creature - Human Wizard"
+    },
+    "Proft, Consulting Detective": {
+      "colors": "U",
+      "cmc": 2,
+      "types": "Legendary Creature - Human Detective"
+    },
+    "Deserted Beach": {
+      "colors": "UW",
+      "cmc": 0,
+      "types": "Land"
+    },
+    "Hexhaven Invigorator": {
+      "colors": "G",
+      "cmc": 4,
+      "types": "Creature - Chimera Horror"
+    },
+    "Eye of Jace": {
+      "colors": "",
+      "cmc": 1,
+      "types": "Artifact"
+    },
+    "Pyre Rhymer": {
+      "colors": "R",
+      "cmc": 3,
+      "types": "Creature - Elemental Sorcerer"
+    },
+    "Hapatra, the Desert Fang": {
+      "colors": "BG",
+      "cmc": 5,
+      "types": "Legendary Creature - Human Cleric"
+    },
+    "Archive Arbiter": {
+      "colors": "",
+      "cmc": 6,
+      "types": "Artifact Creature - Sphinx"
+    },
+    "Yuriko, Hope from the Shadows": {
+      "colors": "U",
+      "cmc": 1,
+      "types": "Legendary Creature - Human Ninja"
+    },
+    "Blessed Ghoul": {
+      "colors": "BW",
+      "cmc": 1,
+      "types": "Creature - Zombie Cleric"
+    },
+    "Infinite Coursework": {
+      "colors": "U",
+      "cmc": 3,
+      "types": "Enchantment - Aura"
+    },
+    "Null Summoner": {
+      "colors": "BU",
+      "cmc": 4,
+      "types": "Creature - Human Warlock"
+    },
+    "Uldaros Theorix": {
+      "colors": "BU",
+      "cmc": 6,
+      "types": "Legendary Creature - Elder Sphinx"
+    },
+    "Woodwork Prodigy": {
+      "colors": "GR",
+      "cmc": 3,
+      "types": "Creature - Cat Druid"
+    },
+    "Rescue Girl, First Responder": {
+      "colors": "W",
+      "cmc": 3,
+      "types": "Legendary Creature - Human Cleric"
+    },
+    "Ingris Stingerquill": {
+      "colors": "BR",
+      "cmc": 3,
+      "types": "Legendary Creature - Elder Sphinx"
+    },
+    "Inspired Tethermage": {
+      "colors": "G",
+      "cmc": 3,
+      "types": "Creature - Elf Warrior"
+    },
+    "Refute Destiny": {
+      "colors": "W",
+      "cmc": 2,
+      "types": "Sorcery"
+    },
+    "Island": {
+      "colors": "U",
+      "cmc": 0,
+      "types": "Basic Land - Island"
+    },
+    "Saheeli, Jewel of Avishkar": {
+      "colors": "RU",
+      "cmc": 4,
+      "types": "Legendary Creature - Human Artificer"
+    },
+    "Generous Revival": {
+      "colors": "W",
+      "cmc": 3,
+      "types": "Sorcery"
+    },
+    "Omnipresence": {
+      "colors": "G",
+      "cmc": 8,
+      "types": "Enchantment"
+    },
+    "Undulating Witness": {
+      "colors": "U",
+      "cmc": 5,
+      "types": "Creature - Serpent"
+    },
+    "Craterclaw Colossus": {
+      "colors": "R",
+      "cmc": 7,
+      "types": "Artifact Creature - Beast Construct"
+    },
+    "Surgical Precision": {
+      "colors": "W",
+      "cmc": 2,
+      "types": "Sorcery"
+    },
+    "Gideon's Memorial": {
+      "colors": "W",
+      "cmc": 2,
+      "types": "Legendary Artifact"
+    },
+    "Entrust the Spark": {
+      "colors": "GU",
+      "cmc": 5,
+      "types": "Sorcery"
+    },
+    "Teyo, Diamondblade Mage": {
+      "colors": "B",
+      "cmc": 4,
+      "types": "Legendary Creature - Human Warlock"
+    },
+    "Stingerquill Annex": {
+      "colors": "BR",
+      "cmc": 0,
+      "types": "Land"
+    },
+    "Vraska, the Cutting Glare": {
+      "colors": "BG",
+      "cmc": 3,
+      "types": "Legendary Creature - Gorgon Assassin"
+    },
+    "Screeching Soulbreaker": {
+      "colors": "B",
+      "cmc": 3,
+      "types": "Creature - Siren Bard"
+    },
+    "Gallia, the Merrymaker": {
+      "colors": "R",
+      "cmc": 2,
+      "types": "Legendary Creature - Satyr"
+    },
+    "Edgar, Moonlit Sovereign": {
+      "colors": "G",
+      "cmc": 5,
+      "types": "Legendary Creature - Werewolf Noble"
+    },
+    "Gardenize": {
+      "colors": "G",
+      "cmc": 3,
+      "types": "Enchantment"
+    },
+    "Hallway Heckler": {
+      "colors": "BR",
+      "cmc": 3,
+      "types": "Creature - Elemental Sorcerer"
+    },
+    "Perfected Theory": {
+      "colors": "U",
+      "cmc": 1,
+      "types": "Instant"
+    },
+    "Vindictive Triumph": {
+      "colors": "BW",
+      "cmc": 3,
+      "types": "Instant"
+    },
+    "Way of the Wildspeaker": {
+      "colors": "G",
+      "cmc": 5,
+      "types": "Legendary Enchantment"
+    },
+    "Paradox Shaper": {
+      "colors": "BU",
+      "cmc": 2,
+      "types": "Creature - Octopus Wizard"
+    },
+    "Winter, Team Player": {
+      "colors": "R",
+      "cmc": 5,
+      "types": "Legendary Creature - Human Warrior"
+    },
+    "Wrath of the Bloodmane": {
+      "colors": "R",
+      "cmc": 3,
+      "types": "Instant"
+    },
+    "Ajani's Anguish": {
+      "colors": "R",
+      "cmc": 1,
+      "types": "Enchantment"
+    },
+    "Overwrite the Multiverse": {
+      "colors": "B",
+      "cmc": 6,
+      "types": "Sorcery"
+    },
+    "Clash of Elements": {
+      "colors": "RU",
+      "cmc": 3,
+      "types": "Instant"
+    },
+    "Campus Crier": {
+      "colors": "W",
+      "cmc": 2,
+      "types": "Creature - Human Advisor"
+    },
+    "No Admittance": {
+      "colors": "R",
+      "cmc": 2,
+      "types": "Sorcery"
+    },
+    "Fateshaper Aspirant": {
+      "colors": "W",
+      "cmc": 5,
+      "types": "Creature - Rhino Cleric"
+    },
+    "Traxos, Scourge Eternal": {
+      "colors": "",
+      "cmc": 4,
+      "types": "Legendary Artifact Creature - Dragon Construct"
+    },
+    "Silence the Echo": {
+      "colors": "B",
+      "cmc": 2,
+      "types": "Sorcery"
+    },
+    "Winter, Tormented Loner": {
+      "colors": "B",
+      "cmc": 3,
+      "types": "Legendary Creature - Human Warlock"
+    },
+    "Codie, Ravenous Codex": {
+      "colors": "BGRUW",
+      "cmc": 3,
+      "types": "Legendary Artifact Creature - Book Construct"
+    },
+    "Konstrari Annex": {
+      "colors": "GR",
+      "cmc": 0,
+      "types": "Land"
+    },
+    "Mountain": {
+      "colors": "R",
+      "cmc": 0,
+      "types": "Basic Land - Mountain"
+    },
+    "Plains": {
+      "colors": "W",
+      "cmc": 0,
+      "types": "Basic Land - Plains"
+    },
+    "Blazing Crescendo": {
+      "colors": "R",
+      "cmc": 2,
+      "types": "Instant"
+    },
+    "Kiora of Salt and Sand": {
+      "colors": "GU",
+      "cmc": 3,
+      "types": "Legendary Creature - Merfolk Noble"
+    },
+    "Tetsuko Umezawa, Pursuer": {
+      "colors": "R",
+      "cmc": 4,
+      "types": "Legendary Creature - Human Mercenary"
+    },
+    "Tam's Resistance": {
+      "colors": "GU",
+      "cmc": 2,
+      "types": "Sorcery"
+    },
+    "Restore with Empathy": {
+      "colors": "G",
+      "cmc": 3,
+      "types": "Instant"
+    },
+    "Proctor of Potential": {
+      "colors": "UW",
+      "cmc": 2,
+      "types": "Creature - Human Cleric"
+    },
+    "Chandra's Emberling": {
+      "colors": "R",
+      "cmc": 3,
+      "types": "Creature - Gremlin Elemental"
+    },
+    "Theorix Metamage": {
+      "colors": "BU",
+      "cmc": 3,
+      "types": "Creature - Shade Wizard"
+    },
+    "Marwyn, the Clearcutter": {
+      "colors": "R",
+      "cmc": 1,
+      "types": "Legendary Creature - Elf Warrior"
+    },
+    "Room of Refuge": {
+      "colors": "",
+      "cmc": 0,
+      "types": "Land"
+    },
+    "Way of the Mentor": {
+      "colors": "W",
+      "cmc": 3,
+      "types": "Legendary Enchantment"
+    },
+    "Aerid Konstrari": {
+      "colors": "GR",
+      "cmc": 4,
+      "types": "Legendary Creature - Elder Sphinx"
+    },
+    "Thalia, the Survivor": {
+      "colors": "W",
+      "cmc": 4,
+      "types": "Legendary Creature - Human Soldier"
+    },
+    "Theoretical Necromancer": {
+      "colors": "B",
+      "cmc": 3,
+      "types": "Creature - Vampire Warlock"
+    },
+    "Tetsuko Umezawa, Fugitive": {
+      "colors": "U",
+      "cmc": 2,
+      "types": "Legendary Creature - Human Rogue"
+    },
+    "Draconic Visitor": {
+      "colors": "R",
+      "cmc": 5,
+      "types": "Creature - Dragon"
+    },
+    "Surveillance Phantasm": {
+      "colors": "U",
+      "cmc": 2,
+      "types": "Creature - Bird Illusion"
+    },
+    "Titanbones, Towering Heart": {
+      "colors": "G",
+      "cmc": 4,
+      "types": "Legendary Creature - Skeleton Druid"
+    },
+    "Swamp": {
+      "colors": "B",
+      "cmc": 0,
+      "types": "Basic Land - Swamp"
+    },
+    "Theorix Charm": {
+      "colors": "BU",
+      "cmc": 2,
+      "types": "Instant"
+    },
+    "Way of the Healer": {
+      "colors": "W",
+      "cmc": 4,
+      "types": "Legendary Enchantment"
+    },
+    "Way of the Mind Sculptor": {
+      "colors": "U",
+      "cmc": 5,
+      "types": "Legendary Enchantment"
+    },
+    "Konstrari Improviser": {
+      "colors": "GR",
+      "cmc": 2,
+      "types": "Creature - Human Artificer"
+    },
+    "Bestial Incursion": {
+      "colors": "G",
+      "cmc": 4,
+      "types": "Sorcery"
+    },
+    "Craftwork Crusher": {
+      "colors": "GR",
+      "cmc": 7,
+      "types": "Artifact Creature - Boar Construct"
+    },
+    "Jace's Machinations": {
+      "colors": "U",
+      "cmc": 3,
+      "types": "Instant"
+    },
+    "Stinging Vitriol": {
+      "colors": "BR",
+      "cmc": 2,
+      "types": "Sorcery"
+    },
+    "Tarmogoyf": {
+      "colors": "G",
+      "cmc": 2,
+      "types": "Creature - Lhurgoyf"
+    },
+    "Skilled Battlecarver": {
+      "colors": "R",
+      "cmc": 2,
+      "types": "Creature - Human Warrior"
+    },
+    "Primal Witchstalker": {
+      "colors": "BG",
+      "cmc": 3,
+      "types": "Creature - Wolf"
+    },
+    "Germinate Recruits": {
+      "colors": "W",
+      "cmc": 3,
+      "types": "Instant"
+    },
+    "Whiplash Wordsmith": {
+      "colors": "BR",
+      "cmc": 4,
+      "types": "Creature - Vampire Sorcerer"
+    },
+    "Samut, Hazoret's Champion": {
+      "colors": "R",
+      "cmc": 2,
+      "types": "Legendary Creature - Human Warrior Cleric"
+    },
+    "Way of the Necromancer": {
+      "colors": "B",
+      "cmc": 2,
+      "types": "Legendary Enchantment"
+    },
+    "Compel Brutality": {
+      "colors": "G",
+      "cmc": 2,
+      "types": "Instant"
+    },
+    "Ruric Thar, Magecrusher": {
+      "colors": "G",
+      "cmc": 7,
+      "types": "Legendary Creature - Ogre Warrior"
+    },
+    "Variable Chaser": {
+      "colors": "U",
+      "cmc": 3,
+      "types": "Creature - Human Wizard"
+    },
+    "Ghalta the Immovable": {
+      "colors": "W",
+      "cmc": 9,
+      "types": "Legendary Creature - Elder Dinosaur"
+    },
+    "Chandra, Chill of Compliance": {
+      "colors": "U",
+      "cmc": 3,
+      "types": "Legendary Planeswalker - Chandra"
+    },
+    "Flickering Hound": {
+      "colors": "W",
+      "cmc": 4,
+      "types": "Creature - Dog"
+    },
+    "Bloodline Recollector": {
+      "colors": "B",
+      "cmc": 2,
+      "types": "Creature - Vampire Warlock"
+    },
+    "Unflinching Hortimancer": {
+      "colors": "W",
+      "cmc": 2,
+      "types": "Creature - Human Cleric"
+    },
+    "Liliana the Repentant": {
+      "colors": "B",
+      "cmc": 2,
+      "types": "Legendary Creature - Human Warlock"
+    },
+    "Tinybones, Pocket Nuisance": {
+      "colors": "B",
+      "cmc": 3,
+      "types": "Legendary Creature - Skeleton Rogue"
+    },
+    "Avatar of Burgeoning Echoes": {
+      "colors": "GU",
+      "cmc": 2,
+      "types": "Creature - Avatar"
+    },
+    "Tethermage's Advantage": {
+      "colors": "G",
+      "cmc": 1,
+      "types": "Instant"
+    },
+    "Theorix Annex": {
+      "colors": "BU",
+      "cmc": 0,
+      "types": "Land"
+    },
+    "Lyra, Tolarian Archangel": {
+      "colors": "U",
+      "cmc": 3,
+      "types": "Legendary Creature - Angel Wizard"
+    },
+    "Stingerquill Voxmancer": {
+      "colors": "BR",
+      "cmc": 1,
+      "types": "Creature - Goblin Sorcerer"
+    },
+    "Yoshimaru, Scrappy Stray": {
+      "colors": "G",
+      "cmc": 2,
+      "types": "Legendary Creature - Dog"
+    },
+    "Dedicated Commons": {
+      "colors": "RW",
+      "cmc": 0,
+      "types": "Land"
+    },
+    "Roiling Canopy": {
+      "colors": "G",
+      "cmc": 0,
+      "types": "Land"
+    },
+    "Jiang Yanggu, Alone": {
+      "colors": "R",
+      "cmc": 5,
+      "types": "Legendary Creature - Human Berserker"
+    },
+    "Verdant Kraken": {
+      "colors": "G",
+      "cmc": 7,
+      "types": "Creature - Plant Kraken"
+    },
+    "Seasoned Cryomancer": {
+      "colors": "U",
+      "cmc": 3,
+      "types": "Creature - Human Wizard"
+    },
+    "Grim Repriser": {
+      "colors": "BR",
+      "cmc": 2,
+      "types": "Creature - Zombie Bard"
+    },
+    "Arcane Amphisbaena": {
+      "colors": "G",
+      "cmc": 2,
+      "types": "Creature - Snake"
+    },
+    "The Echoverse Fulcrum": {
+      "colors": "",
+      "cmc": 2,
+      "types": "Legendary Artifact"
+    },
+    "Gallia, Tragic Host": {
+      "colors": "B",
+      "cmc": 2,
+      "types": "Legendary Creature - Zombie Satyr"
+    },
+    "Sanctum Lurker": {
+      "colors": "B",
+      "cmc": 3,
+      "types": "Creature - Horror"
+    },
+    "Kiora of Fire and Ashes": {
+      "colors": "R",
+      "cmc": 6,
+      "types": "Legendary Creature - Merfolk Noble"
+    },
+    "Liliana the Faultless": {
+      "colors": "W",
+      "cmc": 1,
+      "types": "Legendary Creature - Human Cleric"
+    },
+    "Medic's Kitesail": {
+      "colors": "",
+      "cmc": 2,
+      "types": "Artifact - Equipment"
+    },
+    "Wrecking Gecko": {
+      "colors": "G",
+      "cmc": 5,
+      "types": "Artifact Creature - Lizard Construct"
+    },
+    "Essence Burn": {
+      "colors": "R",
+      "cmc": 2,
+      "types": "Instant"
+    },
+    "Desperate Futurescribe": {
+      "colors": "UW",
+      "cmc": 4,
+      "types": "Creature - Kor Scout"
+    },
+    "Guiding Hydra": {
+      "colors": "W",
+      "cmc": 1,
+      "types": "Creature - Hydra Horror"
+    },
+    "Garruk, Curse Breaker": {
+      "colors": "G",
+      "cmc": 5,
+      "types": "Legendary Planeswalker - Garruk"
+    },
+    "Innovative Commons": {
+      "colors": "RU",
+      "cmc": 0,
+      "types": "Land"
+    },
+    "Multiply by Zero": {
+      "colors": "B",
+      "cmc": 2,
+      "types": "Instant"
+    },
+    "Vinelasher Adept": {
+      "colors": "G",
+      "cmc": 6,
+      "types": "Creature - Rhino Soldier"
+    },
+    "Way of the Cryomancer": {
+      "colors": "U",
+      "cmc": 3,
+      "types": "Legendary Enchantment"
+    },
+    "Chandra, Torch of Defiance": {
+      "colors": "R",
+      "cmc": 4,
+      "types": "Legendary Planeswalker - Chandra"
+    },
+    "Blossom-Blessed Angel": {
+      "colors": "GW",
+      "cmc": 4,
+      "types": "Creature - Angel Cleric"
+    },
+    "Extended Absence": {
+      "colors": "B",
+      "cmc": 4,
+      "types": "Instant"
+    },
+    "Semester Foreseer": {
+      "colors": "UW",
+      "cmc": 4,
+      "types": "Creature - Human Wizard"
+    },
+    "Massacre Girl, Most Wanted": {
+      "colors": "B",
+      "cmc": 5,
+      "types": "Legendary Creature - Human Assassin"
+    },
+    "Shipwreck Marsh": {
+      "colors": "BU",
+      "cmc": 0,
+      "types": "Land"
+    },
+    "Way of the Pyromancer": {
+      "colors": "R",
+      "cmc": 2,
+      "types": "Legendary Enchantment"
+    },
+    "Formidable Commons": {
+      "colors": "BG",
+      "cmc": 0,
+      "types": "Land"
+    },
+    "Greenhouse Propagator": {
+      "colors": "G",
+      "cmc": 3,
+      "types": "Creature - Cat Druid"
+    },
+    "Pia, Determined Rebuilder": {
+      "colors": "R",
+      "cmc": 3,
+      "types": "Legendary Creature - Human Artificer"
+    },
+    "Haunted Ridge": {
+      "colors": "BR",
+      "cmc": 0,
+      "types": "Land"
+    },
+    "Warrior's Blades": {
+      "colors": "RW",
+      "cmc": 4,
+      "types": "Artifact - Equipment"
+    },
+    "Frostbite Pyromental": {
+      "colors": "RU",
+      "cmc": 3,
+      "types": "Creature - Elemental"
+    },
+    "Icy Reception": {
+      "colors": "U",
+      "cmc": 2,
+      "types": "Instant"
+    },
+    "Theorist's Sanctum": {
+      "colors": "U",
+      "cmc": 0,
+      "types": "Land - Island"
+    },
+    "Emrakul, the Exigent Doom": {
+      "colors": "",
+      "cmc": 10,
+      "types": "Legendary Creature - Eldrazi"
+    },
+    "Murmuring Volume": {
+      "colors": "",
+      "cmc": 3,
+      "types": "Artifact - Book"
+    },
+    "Rampart Hunter": {
+      "colors": "B",
+      "cmc": 4,
+      "types": "Creature - Horror"
+    },
+    "Danitha, Spear of Agony": {
+      "colors": "B",
+      "cmc": 3,
+      "types": "Legendary Creature - Human Knight"
+    },
+    "Kwia Vigorbloom": {
+      "colors": "GW",
+      "cmc": 6,
+      "types": "Legendary Creature - Elder Sphinx"
+    },
+    "Way of the Deathbringer": {
+      "colors": "B",
+      "cmc": 3,
+      "types": "Legendary Enchantment"
+    },
+    "Afterthought Sentry": {
+      "colors": "",
+      "cmc": 2,
+      "types": "Artifact Creature - Gargoyle"
+    },
+    "Curse-Marred Demon": {
+      "colors": "R",
+      "cmc": 4,
+      "types": "Creature - Demon"
+    },
+    "Face Yourself": {
+      "colors": "R",
+      "cmc": 7,
+      "types": "Sorcery"
+    },
+    "Yargle, Glutton of Urborg": {
+      "colors": "B",
+      "cmc": 5,
+      "types": "Legendary Creature - Frog Spirit"
+    },
+    "Fatehold Chronologist": {
+      "colors": "UW",
+      "cmc": 2,
+      "types": "Creature - Bird Wizard"
+    },
+    "Transformative Commons": {
+      "colors": "GU",
+      "cmc": 0,
+      "types": "Land"
+    },
+    "Fulminous Forte": {
+      "colors": "R",
+      "cmc": 3,
+      "types": "Instant"
+    },
+    "Ajani Resolute": {
+      "colors": "W",
+      "cmc": 2,
+      "types": "Legendary Planeswalker - Ajani"
+    },
+    "Yoshimaru, Beloved Companion": {
+      "colors": "W",
+      "cmc": 3,
+      "types": "Legendary Creature - Dog"
+    },
+    "Ruric Thar, Biomagus": {
+      "colors": "U",
+      "cmc": 6,
+      "types": "Legendary Creature - Ogre Crab Wizard"
+    },
+    "Academic Ascent": {
+      "colors": "W",
+      "cmc": 2,
+      "types": "Instant"
+    },
+    "Kindred Judgment": {
+      "colors": "W",
+      "cmc": 7,
+      "types": "Sorcery"
+    },
+    "Karn, Argent Defender": {
+      "colors": "",
+      "cmc": 2,
+      "types": "Legendary Artifact Creature - Golem"
+    },
+    "Countersculpt": {
+      "colors": "U",
+      "cmc": 2,
+      "types": "Instant"
+    },
+    "Emergency Phytomedic": {
+      "colors": "GW",
+      "cmc": 1,
+      "types": "Creature - Dryad Cleric"
+    },
+    "Jace, Reality Sculptor": {
+      "colors": "U",
+      "cmc": 5,
+      "types": "Legendary Planeswalker - Jace"
+    },
+    "Fatehold Annex": {
+      "colors": "UW",
+      "cmc": 0,
+      "types": "Land"
+    },
+    "Way of the Paradox": {
+      "colors": "G",
+      "cmc": 3,
+      "types": "Legendary Enchantment"
+    },
+    "Overgrown Farmland": {
+      "colors": "GW",
+      "cmc": 0,
+      "types": "Land"
+    },
+    "Garruk, Veiled Butcher": {
+      "colors": "B",
+      "cmc": 5,
+      "types": "Legendary Planeswalker - Garruk"
+    },
+    "Karn, Gilded Guardian": {
+      "colors": "BGRUW",
+      "cmc": 5,
+      "types": "Legendary Artifact Creature - Golem"
+    },
+    "Carnivorous Cultivator": {
+      "colors": "G",
+      "cmc": 2,
+      "types": "Creature - Elf Warlock"
+    },
+    "Return to the Light Realms": {
+      "colors": "W",
+      "cmc": 9,
+      "types": "Sorcery"
+    },
+    "Theorist's Proxy": {
+      "colors": "U",
+      "cmc": 2,
+      "types": "Creature - Illusion"
+    },
+    "Vigorbloom Charm": {
+      "colors": "GW",
+      "cmc": 2,
+      "types": "Instant"
+    },
+    "Ghalta the Unstoppable": {
+      "colors": "G",
+      "cmc": 9,
+      "types": "Legendary Creature - Elder Dinosaur"
+    },
+    "Pompous Battlemage": {
+      "colors": "R",
+      "cmc": 1,
+      "types": "Creature - Goblin Sorcerer"
+    },
+    "Awaken the Inferno": {
+      "colors": "R",
+      "cmc": 5,
+      "types": "Sorcery"
+    },
+    "Living Library": {
+      "colors": "",
+      "cmc": 2,
+      "types": "Artifact Creature - Book Illusion"
+    },
+    "Tenured Tethermage": {
+      "colors": "GR",
+      "cmc": 3,
+      "types": "Creature - Human Artificer"
+    },
+    "Extrapolate the Impossible": {
+      "colors": "B",
+      "cmc": 2,
+      "types": "Sorcery"
+    },
+    "Tam, the Possibility": {
+      "colors": "BGRUW",
+      "cmc": 3,
+      "types": "Legendary Creature - Gorgon Wizard"
+    },
+    "Rank Rat": {
+      "colors": "B",
+      "cmc": 2,
+      "types": "Creature - Zombie Rat"
+    },
+    "Heartstring Puller": {
+      "colors": "R",
+      "cmc": 4,
+      "types": "Creature - Elf Sorcerer"
+    },
+    "Flourishing Grapple": {
+      "colors": "G",
+      "cmc": 1,
+      "types": "Instant"
+    },
+    "Samut, Tyrant of Naktamun": {
+      "colors": "U",
+      "cmc": 2,
+      "types": "Legendary Creature - Human Wizard"
+    },
+    "Pia, Aether Ascetic": {
+      "colors": "G",
+      "cmc": 3,
+      "types": "Legendary Creature - Human Druid"
+    },
+    "Puppet Crafting": {
+      "colors": "G",
+      "cmc": 2,
+      "types": "Enchantment - Aura"
+    },
+    "Arni, Humble Scribe": {
+      "colors": "U",
+      "cmc": 3,
+      "types": "Legendary Creature - Human Wizard"
+    },
+    "Twisted Fates": {
+      "colors": "BW",
+      "cmc": 5,
+      "types": "Sorcery"
+    },
+    "Loot, the Nexus": {
+      "colors": "G",
+      "cmc": 3,
+      "types": "Legendary Creature - Beast Noble"
+    },
+    "Solarium Sentry": {
+      "colors": "GW",
+      "cmc": 2,
+      "types": "Creature - Cat Soldier"
+    },
+    "Hexhaven Dueling Arena": {
+      "colors": "",
+      "cmc": 0,
+      "types": "Land"
+    },
+    "Mabel, Valley Hero": {
+      "colors": "RW",
+      "cmc": 3,
+      "types": "Legendary Creature - Mouse Soldier"
+    },
+    "Proft, Sinister Mastermind": {
+      "colors": "B",
+      "cmc": 3,
+      "types": "Legendary Creature - Human Rogue"
+    },
+    "Rockfall Vale": {
+      "colors": "GR",
+      "cmc": 0,
+      "types": "Land"
+    },
+    "Void Extrapolator": {
+      "colors": "BU",
+      "cmc": 2,
+      "types": "Creature - Aetherborn Warlock"
+    },
+    "Jiang Yanggu, Never Alone": {
+      "colors": "G",
+      "cmc": 4,
+      "types": "Legendary Creature - Human Druid"
+    },
+    "Sphinx's Approach": {
+      "colors": "U",
+      "cmc": 3,
+      "types": "Instant"
+    },
+    "Graft Surgeon": {
+      "colors": "W",
+      "cmc": 3,
+      "types": "Creature - Human Cleric"
+    },
+    "Stingcaster Mage": {
+      "colors": "R",
+      "cmc": 2,
+      "types": "Creature - Human Wizard"
+    },
+    "Yargle, Goliath of Otaria": {
+      "colors": "U",
+      "cmc": 5,
+      "types": "Legendary Creature - Frog Spirit"
+    },
+    "Budding Insurgent": {
+      "colors": "G",
+      "cmc": 3,
+      "types": "Creature - Dryad Scout"
+    },
+    "Enlightened Confidant": {
+      "colors": "W",
+      "cmc": 2,
+      "types": "Creature - Kor Cleric"
+    },
+    "Geist of Saint Thalia": {
+      "colors": "U",
+      "cmc": 2,
+      "types": "Legendary Creature - Spirit Cleric"
+    },
+    "Saheeli, Consul of Oversight": {
+      "colors": "W",
+      "cmc": 5,
+      "types": "Legendary Creature - Human Advisor"
+    },
+    "Twinned Vision": {
+      "colors": "RU",
+      "cmc": 2,
+      "types": "Instant"
+    },
+    "Hapatra, the Desert Frost": {
+      "colors": "U",
+      "cmc": 4,
+      "types": "Legendary Creature - Human Wizard"
+    },
+    "Prudent Fateseer": {
+      "colors": "UW",
+      "cmc": 3,
+      "types": "Creature - Dwarf Wizard"
+    },
+    "Mindseeker Oculus": {
+      "colors": "U",
+      "cmc": 3,
+      "types": "Creature - Homunculus"
+    },
+    "Heartwood Crafter": {
+      "colors": "GR",
+      "cmc": 1,
+      "types": "Creature - Elf Artificer"
+    },
+    "Hexhaven Battalion": {
+      "colors": "W",
+      "cmc": 6,
+      "types": "Sorcery"
+    },
+    "Rewrite Regrets": {
+      "colors": "B",
+      "cmc": 4,
+      "types": "Sorcery"
+    },
+    "Gideon the Oathless": {
+      "colors": "B",
+      "cmc": 3,
+      "types": "Legendary Creature - Human Mercenary"
+    },
+    "Vraska's Final Mercy": {
+      "colors": "B",
+      "cmc": 2,
+      "types": "Sorcery"
+    },
+    "Konstrari Charm": {
+      "colors": "GR",
+      "cmc": 2,
+      "types": "Instant"
+    },
+    "Simulacrum Shaper": {
+      "colors": "G",
+      "cmc": 3,
+      "types": "Creature - Elf Druid"
+    },
+    "Cast Away Doubt": {
+      "colors": "B",
+      "cmc": 3,
+      "types": "Sorcery"
+    },
+    "Hall of Echoes": {
+      "colors": "",
+      "cmc": 0,
+      "types": "Land"
+    },
+    "Protege's Awakening": {
+      "colors": "U",
+      "cmc": 4,
+      "types": "Sorcery"
+    },
+    "Fatehold Charm": {
+      "colors": "UW",
+      "cmc": 2,
+      "types": "Instant"
+    },
+    "Hunter's Axe": {
+      "colors": "G",
+      "cmc": 1,
+      "types": "Artifact - Equipment"
+    },
+    "Darklight Phoenix": {
+      "colors": "B",
+      "cmc": 4,
+      "types": "Creature - Phoenix"
+    },
+    "Sureshot Sower": {
+      "colors": "G",
+      "cmc": 2,
+      "types": "Creature - Human Archer"
+    },
+    "Loyal Tutor": {
+      "colors": "W",
+      "cmc": 1,
+      "types": "Instant"
+    },
+    "Terminal Criticism": {
+      "colors": "B",
+      "cmc": 2,
+      "types": "Instant"
+    },
+    "Yuriko, Blade of the Mighty": {
+      "colors": "W",
+      "cmc": 4,
+      "types": "Legendary Creature - Human Samurai"
+    },
+    "Ferocity of the Hunt": {
+      "colors": "BG",
+      "cmc": 2,
+      "types": "Enchantment - Aura"
+    },
+    "Traxos, Academy Guardian": {
+      "colors": "U",
+      "cmc": 4,
+      "types": "Legendary Artifact Creature - Dragon Construct"
+    },
+    "Your Fate Ends Here": {
+      "colors": "W",
+      "cmc": 3,
+      "types": "Instant"
+    },
+    "Artifist Acumen": {
+      "colors": "R",
+      "cmc": 1,
+      "types": "Sorcery"
+    },
+    "Tomik, Orzhov Lawmage": {
+      "colors": "W",
+      "cmc": 2,
+      "types": "Legendary Creature - Human Advisor"
+    },
+    "Tomik, Izzet Sparkmage": {
+      "colors": "R",
+      "cmc": 2,
+      "types": "Legendary Creature - Human Wizard"
+    },
+    "Seed Suture": {
+      "colors": "GW",
+      "cmc": 1,
+      "types": "Sorcery"
+    },
+    "Unwind History": {
+      "colors": "U",
+      "cmc": 2,
+      "types": "Sorcery"
+    },
+    "Peer Review": {
+      "colors": "UW",
+      "cmc": 3,
+      "types": "Sorcery"
+    },
+    "Arc of Fortune": {
+      "colors": "U",
+      "cmc": 3,
+      "types": "Sorcery"
+    },
+    "Ancestral Craving": {
+      "colors": "B",
+      "cmc": 1,
+      "types": "Instant"
+    },
+    "Omit Variables": {
+      "colors": "BU",
+      "cmc": 1,
+      "types": "Sorcery"
+    },
+    "Vicious Verse": {
+      "colors": "BR",
+      "cmc": 1,
+      "types": "Sorcery"
+    },
+    "Improvised Act": {
+      "colors": "R",
+      "cmc": 1,
+      "types": "Sorcery"
+    },
+    "Molten Tide": {
+      "colors": "R",
+      "cmc": 1,
+      "types": "Instant"
+    },
+    "Enroot": {
+      "colors": "G",
+      "cmc": 1,
+      "types": "Sorcery"
+    },
+    "Soul Tether": {
+      "colors": "GR",
+      "cmc": 3,
+      "types": "Sorcery"
+    }
+  }
+}

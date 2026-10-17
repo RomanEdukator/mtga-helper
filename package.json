@@ -1,0 +1,17 @@
+{
+  "name": "mtga-helper",
+  "version": "0.1.0",
+  "description": "MTGA draft helper z nakładką: ranking kart 1-5 na podstawie danych 17Lands",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "ratings": "node scripts/build-ratings.js",
+    "test": "node test/run.js"
+  },
+  "devDependencies": {
+    "electron": "^33.0.0"
+  },
+  "allowScripts": {
+    "electron@33.4.11": true
+  }
+}
